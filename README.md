@@ -36,7 +36,7 @@ All cleaning steps are done in [`data_cleaning.ipynb`](https://github.com/Harsha
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot]()
+![Dashboard Screenshot](https://github.com/Harsha125-art/Student-mental-health/blob/90b7d5edbe72494219f55624618843924dc15889/Dashboard.png)
 
 ## 🚀 How to Run
 
