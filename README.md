@@ -34,6 +34,10 @@ All cleaning steps are done in [`data_cleaning.ipynb`](https://github.com/Harsha
 - Seaborn / Matplotlib
 - Jupyter Notebook
 
+## 📸 Dashboard Preview
+
+![Dashboard Screenshot]()
+
 ## 🚀 How to Run
 
 ```bash
