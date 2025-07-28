@@ -16,7 +16,7 @@ The raw dataset contained:
 - Year of study values with gender info (e.g., "Year 2 (Female)")
 
 
-All cleaning steps are done in [`data_cleaning.ipynb`](data_cleaning.ipynb).
+All cleaning steps are done in [`data_cleaning.ipynb`](https://github.com/Harsha125-art/Student-mental-health/blob/43f71e6860d065321c6044bbab6722e8612806ba/Data_cleaning.ipynb).
 
 ## 📂 Dataset
 
